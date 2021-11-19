@@ -1,0 +1,8 @@
+{
+  "name": "env-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TomSG03/ahj-env-yarn.git",
+  "author": "Tomilov Sergey <tomexpert@yandex.ru>",
+  "license": "MIT"
+}
