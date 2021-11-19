@@ -2,6 +2,14 @@
   "name": "env-yarn",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development",
+    "lint": "eslint .",
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
   "repository": "https://github.com/TomSG03/ahj-env-yarn.git",
   "author": "Tomilov Sergey <tomexpert@yandex.ru>",
   "license": "MIT"
